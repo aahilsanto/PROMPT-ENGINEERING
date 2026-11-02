@@ -1813,4 +1813,21 @@ Generative Artificial Intelligence represents a paradigm shift in software engin
 * Sohl-Dickstein, J., Weiss, E., Khanshali, N., & Surya, S. (2015). Deep Unsupervised Learning using Nonequilibrium Thermodynamics. *International Conference on Machine Learning (ICML)*.
 * Vaswani, A., et al. (2017). Attention Is All You Need. *Advances in Neural Information Processing Systems (NeurIPS)*.
 
+# Comparing Both Models:
+
+```
+| Criteria        | ChatGPT                                      | Gemini                                       |
+|-----------------|----------------------------------------------|----------------------------------------------|
+| Accuracy        | High, well hedged; minor LaTeX typos         | High, precise math; wrong Sohl-Dickstein authors |
+| Creativity      | Strong: analogies, examples, revision table  | Moderate: formal, concise, few examples      |
+| Hallucination   | Low; verify 2026 references (Ren, Yao)      | Low; one wrong author list                   |
+| Reasoning       | Good step-by-step teaching                   | Stronger, more rigorous (density, scaling)   |
+| Speed           | Slower: 12 sections, long                    | Faster: 8 sections, compact                  |
+| Eng. Usefulness | Very high: industries, hardware, lifecycle   | Moderate-high: RoPE, GQA, SwiGLU details     |
+|-----------------|----------------------------------------------|----------------------------------------------|
+| Score (/60)     | 48.5                                         | 48.5                                         |
+| Best for        | Full submission / study material             | Quick brief / conceptual rigor               |
+```
 # Result
+
+Thus the report is successfully generated form two AI Tools and their results are compared and analyzed.

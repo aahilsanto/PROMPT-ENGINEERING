@@ -1616,7 +1616,7 @@ Understand the relationship between parameters, data, and compute.
 
 ---
 
-# Gimini:
+# Gemini:
 # A Technical Report on Generative Artificial Intelligence: Architectures, Scaling Mechanics, and Large Language Models
 
 **Prepared for:** Undergraduate Engineering Curriculum / Advanced AI Research Seminar
